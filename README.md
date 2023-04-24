@@ -2,7 +2,7 @@
 
 
 ## About Me
-*An aspiring software engineer with a deep interest in building secure sysytems and applications. 
+*An aspiring software engineer with a deep interest in building secure sysytems and applications. *
 <!--
 **KabuyaSamuel/KabuyaSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching hacking documentaries and podcasts
+-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KabuyaSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="KabuyaSamuel" /> </p>

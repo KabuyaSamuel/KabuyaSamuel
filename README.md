@@ -27,7 +27,7 @@
 </p>
 
 <br />
-<br />
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -47,6 +47,6 @@
 </p>
 
 <br />
-<br />
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KabuyaSamuel&show_icons=true&locale=en" alt="KabuyaSamuel" /></p>

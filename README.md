@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Django REST framework.**
 - 👯 I’m looking to collaborate on **Farm Flow**
 - 🤔 I’m looking for help with **hacking API tools**
-- 💬 Ask me about ...
+- 💬 Ask me about **hacking stories**
 - 📫 How to reach me: **samuelmwangi196@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love watching hacking documentaries and podcasts.**

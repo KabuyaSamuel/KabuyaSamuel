@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Samuel Kabuya alias CodingSam
+# Hi there! 👋 I'm Samuel Kabuya alias CodingSam
 
 
 ## About Me

@@ -15,8 +15,8 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love watching hacking documentaries and podcasts.**
 
-## Featured Blogs
-<a href="https://kiboinsider.substack.com/p/before-teaching-them-how-to-learn?sd=pf" target="blank"> </a>
+### Featured Blogs
+<a href="https://kiboinsider.substack.com/p/before-teaching-them-how-to-learn?sd=pf" target="blank"> Kibo Insider </a>
 
 <h3 align="left">Connect with me:</h3>
 

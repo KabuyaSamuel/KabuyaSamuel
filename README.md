@@ -2,7 +2,7 @@
 
 
 ## About Me
-<h3 align="center">An aspiring software engineer with a deep interest in building secure sysytems and applications. </h3>
+<h3 align="center">An aspiring software engineer with a deep interest in building secure systems and applications. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KabuyaSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="KabuyaSamuel" /> </p>
 
@@ -29,6 +29,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
    <a href ="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

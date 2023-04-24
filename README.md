@@ -26,8 +26,7 @@
 <a href="https://leetcode.com/KabuyaSamuel/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/KabuyaSamuel/" height="30" width="40" /></a>
 </p>
 
-<br />
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -46,7 +45,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<br />
----
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KabuyaSamuel&show_icons=true&locale=en" alt="KabuyaSamuel" /></p>

@@ -1,5 +1,8 @@
 ### Hi there! 👋 I'm Samuel Kabuya alias CodingSam
 
+
+## About Me
+*An aspiring software engineer with a deep interest in building secure sysytems and applications. 
 <!--
 **KabuyaSamuel/KabuyaSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

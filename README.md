@@ -2,7 +2,7 @@
 
 
 ## About Me
-<h3 align="center">An aspiring software engineer with a deep interest in building secure systems and applications. </h3>
+<h3 align="center">An aspiring cybersecurity engineer with a deep interest in building secure systems and applications. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KabuyaSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="KabuyaSamuel" /> </p>
 

@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Samuel Kabuya alias CodingSam
+# Hi there! 👋 I'm Samuel Kabuya alias CodingSam / P3ll0h
 
 
 ## About Me
@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KabuyaSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="KabuyaSamuel" /> </p>
 
-- 🔭 I’m currently working on **Farm Flow**
-- 🌱 I’m currently learning **Practical Ethical Hacking at TCM Security.**
-- 👯 I’m looking to collaborate on **Farm Flow**
-- 🤔 I’m looking for help with **hacking API tools**
+- 🔭 I’m currently working on **My Portfolio**
+- 🌱 I’m currently learning **Computer Systems at Kibo**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 🤔 I’m looking for help with **cybersecurity roadmap 2024**
 - 💬 Ask me about **hacking stories**
 - 📫 How to reach me: **samuelmwangi196@gmail.com**
 - 😄 Pronouns: **He/Him**
@@ -17,6 +17,7 @@
 
 ### Featured Blogs
 <a href="https://kiboinsider.substack.com/p/before-teaching-them-how-to-learn?sd=pf" target="_blank"> Kibo Insider </a>
+<a href="https://medium.com/@samuelkabuya/my-industry-experience-at-codeday-labs-exploring-open-source-world-5832c518a033" target="_blank"> CodeDay Labs Internship - Open Source </a>
 
 <h3 align="left">Connect with me:</h3>
 

@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **My Portfolio**
 - 🌱 I’m currently learning **Computer Systems at Kibo**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 🤔 I’m looking for help with **cybersecurity roadmap 2024**
+- 🤔 I’m looking for help with **securing a software engineering or data science internship** for my penultimate year industry experience course.
 - 💬 Ask me about **hacking stories**
 - 📫 How to reach me: **samuelmwangi196@gmail.com**
 - 😄 Pronouns: **He/Him**

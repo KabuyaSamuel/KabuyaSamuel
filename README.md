@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KabuyaSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="KabuyaSamuel" /> </p>
 
 - 🔭 I’m currently working on **My Portfolio**
-- 🌱 I’m currently learning **Computer Systems at Kibo**
+- 🌱 I’m currently learning **API Hacking at Apisec University**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 🤔 I’m looking for help with **securing a software engineering or data science internship** for my penultimate year industry experience course.
+- 🤔 I’m looking for help with **securing a software engineering or data science internship**.
 - 💬 Ask me about **hacking stories**
-- 📫 How to reach me: **samuelmwangi196@gmail.com**
+- 📫 How to reach me: **samuelkabuya14@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love watching hacking documentaries and podcasts.**
 
